@@ -1,0 +1,43 @@
+
+body{
+    padding: 0;
+    margin: 0;
+    background-image: url(jpj\ .\ photo.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-attachment: fixed;
+}
+h2{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+form{
+    border: 2px solid rgba(12, 28, 121, 0.918);
+    width: 300px;
+    height: 400px;
+    border-radius: 20px;
+    margin: 79px auto;
+    
+}
+h1{
+    text-align: center;
+    color: #ac2c2c;
+
+}
+.in{
+    height: 30px;
+    margin: 0px 0px 30px 3px;
+    border-radius: 20px ;
+}
+.in2{
+    height: 30px;
+    margin: 0px 0px 30px 3px;
+    border-radius: 20px ;
+}
+.submit{
+    margin: 70px 0px 30px 120px;
+}
+a{
+    margin: 55px 0px 80px 160px;
+}
